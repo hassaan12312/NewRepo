@@ -1,0 +1,134 @@
+%s\n app.log:[2025-06-23 11:57:17] [ERROR] User=bob IP=0.36.71.4 Action=login app.log:[2025-06-23 11:57:17] [ERROR] User=charlie IP=142.80.83.24 Action=login app.log:[2025-06-23 11:57:17] [ERROR] User=alice IP=201.145.120.239 Action=login app.log:[2025-06-23 11:57:17] [ERROR] User=root IP=6.95.198.58 Action=login app.log:[2025-06-23 11:57:17] [ERROR] User=admin IP=87.54.180.148 Action=login app.log:[2025-06-23 11:57:18] [ERROR] User=charlie IP=175.137.241.199 Action=login app.log:[2025-06-23 11:57:18] [ERROR] User=bob IP=115.119.83.184 Action=login app.log:[2025-06-23 11:57:18] [ERROR] User=alice IP=15.126.169.137 Action=login auth.log:[2025-06-23 11:57:17] [ERROR] User=admin IP=125.101.62.168 Action=login auth.log:[2025-06-23 11:57:18] [ERROR] User=charlie IP=156.68.33.9 Action=login auth.log:[2025-06-23 11:57:18] [ERROR] User=root IP=106.130.229.180 Action=login auth.log:[2025-06-23 11:57:18] [ERROR] User=alice IP=177.109.169.129 Action=login auth.log:[2025-06-23 11:57:18] [ERROR] User=bob IP=11.242.35.11 Action=login auth.log:[2025-06-23 11:57:18] [ERROR] User=root IP=156.190.183.63 Action=login auth.log:[2025-06-23 11:57:19] [ERROR] User=root IP=40.129.71.81 Action=login system.log:[2025-06-23 11:57:17] [ERROR] User=bob IP=253.66.191.90 Action=login system.log:[2025-06-23 11:57:17] [ERROR] User=bob IP=202.8.45.70 Action=login system.log:[2025-06-23 11:57:18] [ERROR] User=root IP=150.52.185.19 Action=login system.log:[2025-06-23 11:57:19] [ERROR] User=bob IP=141.207.175.81 Action=login
+app.log:[2025-06-23
+11:57:17]
+[ERROR]
+User=bob
+IP=0.36.71.4
+Action=login
+app.log:[2025-06-23
+11:57:17]
+[ERROR]
+User=charlie
+IP=142.80.83.24
+Action=login
+app.log:[2025-06-23
+11:57:17]
+[ERROR]
+User=alice
+IP=201.145.120.239
+Action=login
+app.log:[2025-06-23
+11:57:17]
+[ERROR]
+User=root
+IP=6.95.198.58
+Action=login
+app.log:[2025-06-23
+11:57:17]
+[ERROR]
+User=admin
+IP=87.54.180.148
+Action=login
+app.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=charlie
+IP=175.137.241.199
+Action=login
+app.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=bob
+IP=115.119.83.184
+Action=login
+app.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=alice
+IP=15.126.169.137
+Action=login
+auth.log:[2025-06-23
+11:57:17]
+[ERROR]
+User=admin
+IP=125.101.62.168
+Action=login
+auth.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=charlie
+IP=156.68.33.9
+Action=login
+auth.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=root
+IP=106.130.229.180
+Action=login
+auth.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=alice
+IP=177.109.169.129
+Action=login
+auth.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=bob
+IP=11.242.35.11
+Action=login
+auth.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=root
+IP=156.190.183.63
+Action=login
+auth.log:[2025-06-23
+11:57:19]
+[ERROR]
+User=root
+IP=40.129.71.81
+Action=login
+system.log:[2025-06-23
+11:57:17]
+[ERROR]
+User=bob
+IP=253.66.191.90
+Action=login
+system.log:[2025-06-23
+11:57:17]
+[ERROR]
+User=bob
+IP=202.8.45.70
+Action=login
+system.log:[2025-06-23
+11:57:18]
+[ERROR]
+User=root
+IP=150.52.185.19
+Action=login
+system.log:[2025-06-23
+11:57:19]
+[ERROR]
+User=bob
+IP=141.207.175.81
+Action=login
+app.log:[2025-06-23 11:57:17] [ERROR] User=bob IP=0.36.71.4 Action=login
+app.log:[2025-06-23 11:57:17] [ERROR] User=charlie IP=142.80.83.24 Action=login
+app.log:[2025-06-23 11:57:17] [ERROR] User=alice IP=201.145.120.239 Action=login
+app.log:[2025-06-23 11:57:17] [ERROR] User=root IP=6.95.198.58 Action=login
+app.log:[2025-06-23 11:57:17] [ERROR] User=admin IP=87.54.180.148 Action=login
+app.log:[2025-06-23 11:57:18] [ERROR] User=charlie IP=175.137.241.199 Action=login
+app.log:[2025-06-23 11:57:18] [ERROR] User=bob IP=115.119.83.184 Action=login
+app.log:[2025-06-23 11:57:18] [ERROR] User=alice IP=15.126.169.137 Action=login
+auth.log:[2025-06-23 11:57:17] [ERROR] User=admin IP=125.101.62.168 Action=login
+auth.log:[2025-06-23 11:57:18] [ERROR] User=charlie IP=156.68.33.9 Action=login
+auth.log:[2025-06-23 11:57:18] [ERROR] User=root IP=106.130.229.180 Action=login
+auth.log:[2025-06-23 11:57:18] [ERROR] User=alice IP=177.109.169.129 Action=login
+auth.log:[2025-06-23 11:57:18] [ERROR] User=bob IP=11.242.35.11 Action=login
+auth.log:[2025-06-23 11:57:18] [ERROR] User=root IP=156.190.183.63 Action=login
+auth.log:[2025-06-23 11:57:19] [ERROR] User=root IP=40.129.71.81 Action=login
+system.log:[2025-06-23 11:57:17] [ERROR] User=bob IP=253.66.191.90 Action=login
+system.log:[2025-06-23 11:57:17] [ERROR] User=bob IP=202.8.45.70 Action=login
+system.log:[2025-06-23 11:57:18] [ERROR] User=root IP=150.52.185.19 Action=login
+system.log:[2025-06-23 11:57:19] [ERROR] User=bob IP=141.207.175.81 Action=login
