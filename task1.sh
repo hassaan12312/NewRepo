@@ -21,9 +21,14 @@ echo "Starting backup......"
 cd backups
 path=$(pwd)
 cd ..
-echo "Backup Done ......"
+
+timestamp=$(date +"%Y-%m-%d_%H-%M-%S")
 cd logs
-cp *.log $path
+for file in *.log; do
+    cp "$file" "$path/${file%.log}_$timestamp.log"
+done
 cd ..
+echo "Backup Done ......"
+
 cd backups
 pwd
